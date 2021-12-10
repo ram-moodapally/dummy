@@ -1,0 +1,332 @@
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+prescription data.txt not foundjava.io.FileNotFoundException: ./prescription data.txt (No such file or directory)
+genes data.txtjava.io.FileNotFoundException: ./genes data.txt (No such file or directory)
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Sysadmin Creating Networkuserinterface.SystemAdminWorkArea.ManageNetworkJPanel
+Name of network Created:	USA
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	usa_hname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	usa_pname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	usa_dname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+name of the Enterpise is: 	usa_cname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	usa_haname of the enterprise is: 	usa_haname of network is	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	usa_paname of the enterprise is: 	usa_paname of network is	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	usa_daname of the enterprise is: 	usa_daname of network is	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	usa_caname of the enterprise is: 	usa_caname of network is	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Invalid credentials for user
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationDoctor
+Enterprise admin adding the following OrganizationLab
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	doc1in following Organization 	Doctor Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding following employee 	lab1in following Organization 	Lab Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	doc1RoleBusiness.Role.DoctorRoleIn OrganizationDoctor Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating user with name 	lab1RoleBusiness.Role.LabRoleIn OrganizationLab Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Invalid credentials for user
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationPharmacy
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	phar1in following Organization 	Pharmacy Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	phar1RoleBusiness.Role.PharmacyRoleIn OrganizationPharmacy Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationDrug
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	drug1in following Organization 	Drug Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	drug1RoleBusiness.Role.DrugRoleIn OrganizationDrug Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationChemical
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	chem1in following Organization 	Chemical Organization	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	chem1RoleBusiness.Role.ChemicalRoleIn OrganizationChemical Organization	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Current Enterprise	usa_h
+Current Organization	Doctor Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor role
+Pharmacy Organization
+Current Enterprise	usa_p
+Current Organization	Pharmacy Organization
+Current Network	USA
+request sent to Pharmacy
+saving prescription details to prescription data.txt
+going back to Doctors work area
+inside doctor role
+going back to Doctors work area
+inside doctor's lab request
+sent request to Lab
+inside doctor's lab request
+inside doctor role
+going back to Doctors work area
+Current Enterprise	usa_p
+Current Organization	Pharmacy Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.PharmacyRole
+phar1 logged in
+phar1 viewed the drug requests
+medicine added successfully
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	usa_h
+Current Organization	Doctor Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor role
+going back to Doctors work area
+inside doctor's lab request
+Current Enterprise	usa_h
+Current Organization	Lab Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.LabRole
+lab1 logged in
+refreshed the table
+Entering Main JFrame	userinterface.MainJFrame
+Invalid credentials for user
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating networkuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Current Enterprise	usa_h
+Current Organization	Doctor Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor role
+going back to Doctors work area
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Current Enterprise	usa_h
+Current Organization	Lab Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.LabRole
+lab1 logged in
+Current Enterprise	usa_h
+Current Organization	Doctor Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor role
+going back to Doctors work area
+inside doctor's lab request
+inside doctor's lab request
+Current Enterprise	usa_h
+Current Organization	Lab Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.LabRole
+lab1 logged in
+lab1 has assigned the request
+status has been set to pending
+entering process request page
+Current Enterprise	usa_h
+Current Organization	Doctor Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.DoctorRole
+inside doctor's lab request
+displaying results
+adding request to lab assistant
+Current Enterprise	usa_p
+Current Organization	Pharmacy Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.PharmacyRole
+phar1 logged in
+phar1 viewed the drug requests
+phar1 viewed the drug requests
+medicine added successfully
+phar1 sending request to Drug Organization
+Current Enterprise	usa_d
+Current Organization	Drug Organization
+Current Network	USA
+Logged in User RoleBusiness.Role.DrugRole
+drug1 logged in drug work area
+drug1 assigned himself a task
+drug1 entering processing page
+drug1 entering drug adding page
+drug1 added new drug lolo
+drug1 entering add chemicals page
+drug1 added chemicals and genes to drug lolo
+drug1 entering add chemicals page
+drug1 added chemicals and genes to drug lolo
+drug1 entering chemical requests page
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	usa_wname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	usa_wname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	usa_wname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+Logged in User RoleBusiness.Role.SystemAdminRole
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	usa_wname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	usa_waname of the enterprise is: 	usa_waname of network is	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationChemical
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Logged in User RoleBusiness.Role.SystemAdminRole
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+name of the Enterpise is: 	usa_wwname of Network in which the enterprise is: 	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+system admin creating enterprise admin	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+name of the USER is: 	usa_wwaname of the enterprise is: 	usa_wwaname of network is	USA	userinterface.SystemAdminWorkArea.ManageEnterpriseAdminJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationWellnessPlatform
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	wp1in following Organization 	WellnessPlatform	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	wp1RoleBusiness.Role.WellnessPlatformAdminRoleIn OrganizationWellnessPlatform	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding the following OrganizationWellnessPlatform
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding following employee 	user1in following Organization 	WellnessPlatform	userinterface.AdministrativeRole.ManageEmployeeJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating user with name 	user1RoleBusiness.Role.WellnessPlatformAdminRoleIn OrganizationWellnessPlatform	userinterface.AdministrativeRole.ManageUserAccountJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Logged in User RoleBusiness.Role.SystemAdminRole
+user creating enterpirseuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Logged in User RoleBusiness.Role.AdminRole
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin creating Organization 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding Employee 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Enterprise admin adding users 	userinterface.AdministrativeRole.AdminWorkAreaJpanel
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Invalid credentials for user
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Logged in User RoleBusiness.Role.SystemAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+user1 logged in
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+user1 logged in
+Invalid credentials for user
+Entering Main JFrame	userinterface.MainJFrame
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+user1 logged in
+Logged in User RoleBusiness.Role.SystemAdminRole
+user adding enterpirse adminsuserinterface.SystemAdminWorkArea.SystemAdminWorkAreaJPanel
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+user1 logged in
+Current Enterprise	usa_ww
+Current Organization	WellnessPlatform
+Current Network	USA
+Logged in User RoleBusiness.Role.WellnessPlatformAdminRole
+user1 logged in
